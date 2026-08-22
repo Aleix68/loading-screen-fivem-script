@@ -66,8 +66,6 @@ go_loadingscreen/
 ```
 
 # 🧪 How It Works
-
-- The loading screen displays a main image that changes every few seconds.  
 - Music starts automatically and can be controlled by the player.  
 - All assets are loaded directly from your server or Discord CDN.  
 
