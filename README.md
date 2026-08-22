@@ -64,11 +64,3 @@ go_loadingscreen/
 │── index.html
 │── style.css
 ```
-
-# 🧪 How It Works
-- Music starts automatically and can be controlled by the player.  
-- All assets are loaded directly from your server or Discord CDN.  
-
----
-
-Solo dime qué estilo quieres y te lo dejo perfecto.
