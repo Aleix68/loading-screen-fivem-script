@@ -32,7 +32,7 @@ It works on **any FiveM server**.
 ## ⚙️ Configuration
 
 ### 🎵 Music Playlist  
-Edit the `songs` array inside `script.js`:
+Edit the `songs` array inside `config.js`:
 
 ```js
 songs: [
@@ -59,7 +59,7 @@ images: [
 
 ```
 go_loadingscreen/
-│── config.lua
+│── config.js
 │── fxmanifest.lua
 │── index.html
 │── style.css
